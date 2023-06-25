@@ -1,6 +1,3 @@
-from googlehomepush import GoogleHome
-from gtts import gTTS
-
 import time
 import pychromecast
 
